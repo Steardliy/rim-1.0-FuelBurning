@@ -7,5 +7,6 @@ namespace FuelBurning
 {
     public class Class1
     {
+
     }
 }
