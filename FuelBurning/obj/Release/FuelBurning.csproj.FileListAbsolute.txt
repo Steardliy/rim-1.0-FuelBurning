@@ -1,0 +1,4 @@
+C:\GitLocal\rim-B19-FuelBurning\FuelBurning\bin\Release\FuelBurning.dll
+C:\GitLocal\rim-B19-FuelBurning\FuelBurning\obj\Release\FuelBurning.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-B19-FuelBurning\FuelBurning\obj\Release\FuelBurning.dll
+C:\GitLocal\rim-B19-FuelBurning\FuelBurning\obj\Release\FuelBurning.csprojResolveAssemblyReference.cache
