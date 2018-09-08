@@ -1,3 +1,4 @@
+C:\GitLocal\rim-B19-FuelBurning\FuelBurning\obj\Debug\FuelBurning.csprojResolveAssemblyReference.cache
 C:\GitLocal\rim-B19-FuelBurning\FuelBurning\obj\Debug\FuelBurning.csproj.CoreCompileInputs.cache
 C:\GitLocal\rim-B19-FuelBurning\FuelBurning\bin\Debug\FuelBurning.dll
 C:\GitLocal\rim-B19-FuelBurning\FuelBurning\bin\Debug\FuelBurning.pdb

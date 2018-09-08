@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
  <ModMetaData>
-	<name>[B19]-FuelBurning</name>
+	<name>[1.0]-FuelBurning</name>
 	<author>Steardliy</author>
 	<url></url>
-	<targetVersion>0.19.2009</targetVersion>
-	<description>Three types of fuel burning traps are added in the security category.\n\n[version 2.2.0] 2018/Aug 30</description>
+	<targetVersion>1.0.2020</targetVersion>
+	<description>Three types of fuel burning traps are added in the security category.\n\n[version 2.3.0] 2018/Sep 8</description>
  </ModMetaData>

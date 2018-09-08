@@ -4,7 +4,7 @@ using Verse;
 
 namespace FuelBurning
 {
-    class Designator_CleanFuel : Designator_Deconstruct
+    public class Designator_CleanFuel : Designator_Deconstruct
     {
         public Designator_CleanFuel()
         {
