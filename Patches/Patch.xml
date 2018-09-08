@@ -7,4 +7,20 @@
 			<li>FuelBurning.Designator_CleanFuel</li>
 		</value>
 	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/DesignationCategoryDef[defName="Zone"]/specialDesignatorClasses</xpath>
+		<value>
+			<li>FuelBurning.Designator_AreaNoFireFightingExpand</li>
+			<li>FuelBurning.Designator_AreaNoFireFightingClear</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/WorkGiverDef[defName="FightFires"]/giverClass</xpath>
+		<value>
+			<giverClass>FuelBurning.WorkGiver_ExtendedFightFires</giverClass>
+		</value>
+	</Operation>
+	
 </Patch>
